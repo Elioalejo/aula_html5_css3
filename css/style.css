@@ -1,0 +1,36 @@
+body {
+    background: rgb(160, 134, 221);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: darkblue;
+    font-style: normal;
+}
+
+h2 {
+    color: darkblue;
+    font-style: normal;
+}
+
+p {
+    font-style: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 400px;
+}
+
+.logo {
+    width: 100px;
+}
